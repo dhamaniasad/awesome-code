@@ -12,3 +12,7 @@ Awesome projects that demonstrate what great code looks like
 ### JavaScript
 
 * [Underscore](https://github.com/jashkenas/underscore)
+
+### React Native
+
+* [HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native)
